@@ -36,7 +36,7 @@ public class ExamenUnidad3 {
 
             switch (opcion){
                 case 1:
-                    
+                    /*
                     clave=JOptionPane.showInputDialog(null,
                             "clave de la materia");
                     creditos= Integer.parseInt(JOptionPane.showInputDialog(null,
@@ -55,7 +55,7 @@ public class ExamenUnidad3 {
                     // > mayor que //< menor que
                     break;
 
-                     
+                     */
                     if(ciencias.estaLlena()){
                         JOptionPane.showMessageDialog(null,
                                 "No hay datos capturados");
