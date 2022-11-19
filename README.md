@@ -1,4 +1,7 @@
 # Proyecto-curso-git
+Union de archivos de paginas web, java y python 
 
+main
 
-Proyecto de ejemplo en equipo
+DerekEMGA
+Se agrega nueva rama (codigo en java) para la union a Dev para evitar conflictos con main
