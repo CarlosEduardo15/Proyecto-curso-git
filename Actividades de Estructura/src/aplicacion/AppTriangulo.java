@@ -1,5 +1,4 @@
 package aplicacion;
-import javax.swing.JOptionPane;
 import dominio.Triangulo;
 
 public class AppTriangulo {

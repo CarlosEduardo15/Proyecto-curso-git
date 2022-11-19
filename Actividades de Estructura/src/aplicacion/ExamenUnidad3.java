@@ -22,9 +22,9 @@ public class ExamenUnidad3 {
         menu += "2.  Mostrar Materias de Ciencias \n";
         menu += "3.  Mostrar Materias Basicas \n";
         menu += "4.  Eliminar una Materia de Ciencias \n";
-        menu += "5.  Eliminar una Todas las materias Basicas";
-        menu += "6.  Suma TOTAL de creditos";
-        menu += "7.  Matera de Basicas con mas creditos";
+        menu += "5.  Eliminar una Todas las materias Basicas \n";
+        menu += "6.  Suma TOTAL de creditos \n";
+        menu += "7.  Matera de Basicas con mas creditos \n";
         menu += "8.  Salir \n";
 
         totalOpciones = 8;  // ACTUALIZAR SIEMPRE ESTA VARIABLE PARA AJUSTARSE AL TOTAL DE OPCIONES
@@ -36,7 +36,7 @@ public class ExamenUnidad3 {
 
             switch (opcion){
                 case 1:
-                    /*
+                    
                     clave=JOptionPane.showInputDialog(null,
                             "clave de la materia");
                     creditos= Integer.parseInt(JOptionPane.showInputDialog(null,
@@ -55,7 +55,7 @@ public class ExamenUnidad3 {
                     // > mayor que //< menor que
                     break;
 
-                     */
+                     
                     if(ciencias.estaLlena()){
                         JOptionPane.showMessageDialog(null,
                                 "No hay datos capturados");

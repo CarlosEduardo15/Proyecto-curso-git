@@ -2,7 +2,6 @@ package aplicacion;
 
 import dominio.ColaCircularEscuelas;
 import dominio.Escuela;
-
 import javax.swing.*;
 
 public class ExamenReg3 {

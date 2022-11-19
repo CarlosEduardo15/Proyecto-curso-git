@@ -2,7 +2,6 @@ package aplicacion;
 
 import dominio.ArbolBinarioAlumno;
 import dominio.NodoArbolBinAlumno;
-
 import javax.swing.*;
 
 public class ExamenU5 {

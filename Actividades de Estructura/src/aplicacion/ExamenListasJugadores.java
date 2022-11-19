@@ -2,7 +2,6 @@ package aplicacion;
 
 import dominio.ListaJugadores;
 import dominio.NodoJugador;
-
 import javax.swing.*;
 
 public class ExamenListasJugadores {

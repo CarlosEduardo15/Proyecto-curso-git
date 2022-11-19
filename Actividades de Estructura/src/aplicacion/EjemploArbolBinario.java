@@ -33,7 +33,7 @@ public class EjemploArbolBinario {
             switch (opcion){
                 case 1:
                     s=JOptionPane.showInputDialog(null,
-                            "Instroduce un instring");
+                            "Instroduce un string");
                     tree.insertarNodo( new NodoArbolBin(s));
                     break;
                 case 2:
