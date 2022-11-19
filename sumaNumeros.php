@@ -1,7 +1,7 @@
 <html>
     <head>
         <title>
-            Sumas de algunos nmeros 
+            Sumas de numeros
         </title>
     </head>
 
