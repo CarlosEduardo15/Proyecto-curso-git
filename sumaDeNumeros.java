@@ -12,12 +12,14 @@ public class Ejercicio1 {
 		Scanner reader = new Scanner(System.in);
 		int numero1 = 0;
 		int numero2 = 0;
+        //pide el primer numero
 		System.out.println("Introduce el número 1:");
 		/*
 		 * A partir de ese momento cada vez que queramos que el usuario nos de una entrada por
 		 * teclado, en nuestro caso un número deberemos de llamar al método .nextInt()
 		 */
 		numero1 = reader.nextInt();
+        //pide el segundo numero
 		System.out.println("Introduce el número 2:");
 		numero2 = reader.nextInt();
 		int suma=numero1+numero2;
