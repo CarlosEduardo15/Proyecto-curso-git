@@ -4,7 +4,8 @@ import dominio.Producto;
 import javax.swing.*;
 import java.util.Random;
 
-public class Ecamen_U1 {
+// examen de la unidad 1
+public class Examen_U1 {
     public static void main(String[] args) {
         Producto articulo [];
         articulo= new Producto[15];
@@ -122,18 +123,7 @@ public class Ecamen_U1 {
                         }
                         cadena += "\n";
                     }
-                    /*for (int i = 0; i < m.length; i++) {
-                        for (int j = 0; j < m[i].length; j++) {
-                            if(m[i]==m[j]){
-                                m[i][j]+=1;
-                                cadena += m[i][j] + ",";
-                            } else
-                                m[i][j]+=0;
-                            cadena += m[i][j] + ",";
-                            cadena += "\n";
-                        }
-                    }
-                     */
+                    
                   JOptionPane.showInputDialog(null, cadena);
 
                     break;
