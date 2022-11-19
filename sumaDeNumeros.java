@@ -21,7 +21,8 @@ public class Ejercicio1 {
 		System.out.println("Introduce el número 2:");
 		numero2 = reader.nextInt();
 		int suma=numero1+numero2;
-	
+        
+        //impresion de resultados 
 		System.out.println("La suma de los dos número es: "+suma);
 	
 	}
