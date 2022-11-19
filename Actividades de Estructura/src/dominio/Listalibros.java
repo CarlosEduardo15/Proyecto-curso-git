@@ -1,7 +1,7 @@
 package dominio;
 
 import javax.swing.*;
-import java.lang.constant.Constable;
+//import java.lang.constant.Constable;
 
 public class Listalibros {
     private NodoLibro inicio;
@@ -91,7 +91,7 @@ public class Listalibros {
     //revision de precio
     public void mayorPrecio(){
         NodoLibro r = inicio;
-        float mayor =0;
+        float mayor = 0;
         while (r!=null){
             if (r.getPrecio()>400){
                 r.toString();
