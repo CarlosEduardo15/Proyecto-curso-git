@@ -1,0 +1,1 @@
+In this part as you can see I did all my activities and exams, I like to manage my documents and that is why I separated the "main" from the methods to not have them all together, this helps you a lot because you have more order when working and do not have everything in one place.
